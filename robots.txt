@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /checkout
+Disallow: /cart
+Disallow: /customer
+Disallow: /compare
+Disallow: /wishlist
+Disallow: /search
+Disallow: /*?sort=
+Disallow: /*?limit=
+Disallow: /*?mode=
+
+Sitemap: https://craftmart.in/sitemap.xml
